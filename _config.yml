@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Albin Aichberger"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Miami, FL"
+  employer         : "University of Miami"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "axa4140@miami.edu" 
 
   # Academic websites
   academia         : # URL
