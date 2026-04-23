@@ -10,6 +10,5 @@ redirect_from:
 
 Hola! My name is Albin and I'm a Ph.D. Student at the University of Miami. 
 ======
-
-Site-wide configuration
+Hola! My name is Albin and I'm a Ph.D. Student at the University of Miami.  
 ------
